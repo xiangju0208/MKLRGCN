@@ -10,7 +10,7 @@
   * torch-geometric 2.3.0
   * numpy 1.26.4
   * scikit-learn 1.1.3
-# quick run:
+# Quick run:
 Execute python main.py to run the code
     
 

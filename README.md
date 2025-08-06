@@ -7,13 +7,6 @@ Biological research has found that miRNA (microRNA) plays an important role in e
   * torch-geometric 2.3.0
   * numpy 1.26.4
   * scikit-learn 1.1.3
-## Data
-* ./HMDD3/d_fs.csv: The disease functional kernel
-* ./HMDD3/d_gs.csv: The disease Gaussian kernel
-* ./HMDD3/d_ss.csv: The disease semantic kernel
-* ./HMDD3/m_fs.csv: The miRNA functinal kernel
-* ./HMDD3/m_gs.csv: The miRNA Gaussian kernel
-* ./HMDD3/m_ss.csv: The miRNA sequence kernel
 ## Usage 
 ### 1. Data Preprocessing 
 For detailed implementation instructions, please refer to getData.py 

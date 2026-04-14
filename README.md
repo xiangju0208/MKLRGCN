@@ -20,6 +20,6 @@ Execute python main.py to run the code
 Please contact us for any further questions:
 * Ju Xiang xiang.ju@foxmail.com
 ## Cite
-Z. Guo, S. Chen, J. Jiang, Y. Qu, Y. Wu and J. Xiang, "Predicting miRNA-Disease Associations by Multikernel Learning and Relational Graph Convolutional Neural Network," 2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Wuhan, China, 2025, pp. 268-273, doi: 10.1109/BIBM66473.2025.11357028.
+Z. Guo, S. Chen, J. Jiang, Y. Qu, Y. Wu and J. Xiang, "Predicting miRNA-Disease Associations by Multikernel Learning and Relational Graph Convolutional Neural Network," 2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Wuhan, China, 2025, pp. 268-273.(https://doi.org/10.1109/BIBM66473.2025.11357028)
     
 

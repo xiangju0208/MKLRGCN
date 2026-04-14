@@ -14,11 +14,12 @@ For detailed implementation instructions, please refer to getData.py
 First, a multi-kernel learning module is constructed to learn combined kernels of miRNAs/diseases and their initial feature representations. Then, multiple types of relations are derived by identifying high co-occurrences between miRNAs/diseases, and hub-ordinary associations between miRNAs and diseases, which feed into RGCN to learn embeddings of miRNAs/diseases from a heterogeneous network of MDAs. For detailed implementation instructions, please refer to model.py 
 ### 3. Predicting and Model Output 
 Infer potential MDAs by a multi-layer perceptron. We use AUROC and AUPRC as two standard evaluation metrics. For detailed implementation instructions, please refer to model.py and train.py
+## Quick Run
+Execute python main.py to run the code
 ## Contact
 Please contact us for any further questions:
 * Ju Xiang xiang.ju@foxmail.com
-## Quick Run
-Execute python main.py to run the code
-
+## Cite
+Z. Guo, S. Chen, J. Jiang, Y. Qu, Y. Wu and J. Xiang, "Predicting miRNA-Disease Associations by Multikernel Learning and Relational Graph Convolutional Neural Network," 2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Wuhan, China, 2025, pp. 268-273, doi: 10.1109/BIBM66473.2025.11357028.
     
 
